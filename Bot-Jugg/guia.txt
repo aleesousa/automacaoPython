@@ -1,0 +1,61 @@
+Tutorial - Instruções para Configuração
+
+1. Certifique-se de que você já tenha o Python e o Visual Studio Code (VSCode) instalados em seu computador.
+
+1. Make sure you already have Python and Visual Studio Code (VSCode) installed on your computer.
+
+2. Acesse meu repositório no GitHub e baixe as imagens e o código disponibilizados.
+
+Link do repositório: [Insira o link aqui]
+2. Go to my GitHub repository and download the available images and code.
+Repository link: [Insert link here]
+
+
+3. Extraia os arquivos baixados para uma pasta de sua preferência.
+
+3. Extract the downloaded files to a folder of your choice.
+
+4. Abra o VSCode e selecione a pasta onde os arquivos foram extraídos.
+
+4. Open VSCode and select the folder where the files were extracted.
+
+5. Instale os pacotes necessários executando os seguintes comandos no terminal do VSCode:
+
+5. Install the required packages by running the following commands in the VSCode terminal:
+
+pip install pyautogui
+pip install opencv-python
+
+
+Aqui está o tutorial com as instruções lado a lado, primeiro em português e logo abaixo em inglês para cada passo:
+
+Tutorial - Instruções para Configuração
+1. Certifique-se de que você já tenha o Python e o Visual Studio Code (VSCode) instalados em seu computador.
+1. Make sure you already have Python and Visual Studio Code (VSCode) installed on your computer.
+
+2. Acesse meu repositório no GitHub e baixe as imagens e o código disponibilizados.
+
+Link do repositório: [Insira o link aqui]
+2. Go to my GitHub repository and download the available images and code.
+Repository link: [Insert link here]
+3. Extraia os arquivos baixados para uma pasta de sua preferência.
+3. Extract the downloaded files to a folder of your choice.
+
+4. Abra o VSCode e selecione a pasta onde os arquivos foram extraídos.
+4. Open VSCode and select the folder where the files were extracted.
+
+5. Instale os pacotes necessários executando os seguintes comandos no terminal do VSCode:
+
+5. Install the required packages by running the following commands in the VSCode terminal:
+
+pip install pyautogui
+pip install opencv-python
+
+6. Configure as imagens, pois a resolução do seu monitor pode ser diferente da minha:
+
+Verifique as imagens fornecidas para garantir que correspondam ao seu ambiente.
+Ajuste as capturas de tela ou parâmetros no código, se necessário, para alinhar com a sua resolução.
+
+6. Configure the images, as your monitor resolution might differ from mine:
+Check the provided images to ensure they match your environment.
+Adjust the screenshots or parameters in the code, if necessary, to align with your resolution.
