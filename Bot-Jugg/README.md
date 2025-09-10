@@ -1,9 +1,11 @@
 # Bot-ED-JUGG - Available and Working Since 03/01/25
 
 ## Description
+
 Bot for Juggernaut in Epic-Duel. Automates actions in the Epic Duel game to assist with Juggernaut gameplay.
 
 ## Required Files
+
 All necessary files to run the bot are available above.
 
 ## Requirements
@@ -16,15 +18,11 @@ All necessary files to run the bot are available above.
 1. Download the files and extract them.
 2. Open VSCode and load the bot folder.
 3. Follow the link below to see how the bot works.
-   
+
    [**How It Works - Video**](https://drive.google.com/file/d/1aqwQMQZmeMtbGB2NV3OQU2RgHl3zSS6q/view?usp=sharing)
 
 ### Note
+
 The delay is intentional, but if you prefer to remove the slight delay to use the skills faster, you have the source code available to make the necessary adjustments.
-
-## Setup
-
-If you need help setting up the bot on your machine, feel free to reach out:
-
 
 **Good luck and play wisely!**
