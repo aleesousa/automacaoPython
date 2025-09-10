@@ -35,7 +35,7 @@ Tutorial - Instruções para Configuração
 
 2. Acesse meu repositório no GitHub e baixe as imagens e o código disponibilizados.
 
-Link do repositório: [Insira o link aqui]
+Link do repositório: [Insira  o link aqui]
 2. Go to my GitHub repository and download the available images and code.
 Repository link: [Insert link here]
 3. Extraia os arquivos baixados para uma pasta de sua preferência.

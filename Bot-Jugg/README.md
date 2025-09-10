@@ -26,11 +26,5 @@ The delay is intentional, but if you prefer to remove the slight delay to use th
 
 If you need help setting up the bot on your machine, feel free to reach out:
 
-- **DM** (Direct Message)
-- **Phone/WhatsApp**: [https://wa.me/5551981748327](https://wa.me/5551981748327)
-
----
-
-<p style="color:red;">If you like the idea and share my post on Twitter, I can send you one that blows up bombs in the next war.</p>
 
 **Good luck and play wisely!**
