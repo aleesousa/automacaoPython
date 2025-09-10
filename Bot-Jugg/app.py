@@ -3,7 +3,7 @@ import time as t
 import threading
 import tkinter as tk
 
-py.PAUSE = 0  # Remove a pausa entre os comandos para acelerar o bot 
+py.PAUSE = 0  # Remove a pausa entre os comandos para acelerar o bot
 
 executar_bot = False
 
